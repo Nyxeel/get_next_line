@@ -25,34 +25,6 @@ The implementation emphasizes reliability, efficiency, and correct memory handli
 
 ---
 
-## ⚙️ Compilation
-
-Compile the project using:
-
-```bash
-make
-```
-
-Clean object files:
-
-```bash
-make clean
-```
-
-Remove all build artifacts:
-
-```bash
-make fclean
-```
-
-Rebuild from scratch:
-
-```bash
-make re
-```
-
----
-
 ## 🔌 Usage
 
 Include the header in your project:
