@@ -76,11 +76,7 @@ Behavior:
 get_next_line/
 │
 ├── get_next_line.c        # main function logic
-├── get_next_line_utils.c  # helper functions (string handling, memory, etc.)
-├── get_next_line.h        # header file & prototypes
-└── Makefile               # build rules
-```
-
+└──  get_next_line.h        # header file & prototypes
 ---
 
 ## 🔍 Implementation Notes
